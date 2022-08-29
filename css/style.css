@@ -27,3 +27,11 @@ h1 {
 #testo_blu {
     color: rgb(120, 214, 221);
 }
+
+#immagini_main {
+    margin-top: 15px;
+}
+
+.testo_descrittivo {
+    font-size: 12px;
+}
