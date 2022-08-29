@@ -40,7 +40,17 @@ h1 {
     background-color: yellow;
 }
 
+table {
+    width: 75%;
+}
 
+#colonne {
+    background-color: rgba(0, 47, 255, 0.60);
+}
+
+.riga_celeste {
+    background-color: rgba(120, 214, 221);
+}
 
 .immagine1 {
     width: 300px;
