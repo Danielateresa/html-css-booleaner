@@ -63,3 +63,25 @@ th {
     background-color: rgb(120, 214, 221);
     height: 60px;
 }
+
+#clear {
+    clear: both;
+}
+
+.immagine1 {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    background-image: url("../img/monitor.jpg");
+}
+
+.immagine2 {
+    width: 300px;
+    height: 200px;
+    background-image: url("../img/graph.jpg");
+}
+
+.testo_img_footer {
+    color: white;
+
+}
