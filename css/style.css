@@ -40,33 +40,7 @@ h1 {
     background-color: yellow;
 }
 
-th {
-    margin-right: 10%;
-}
 
-.colonnasx,
-.colonna_centro,
-.colonnadx {
-    float: left;
-    width: 25%;
-}
-
-.colonnadx {
-    float: left;
-}
-
-.riga1 {
-    background-color: rgba(0, 47, 255, 0.60);
-}
-
-.riga2 {
-    background-color: rgb(120, 214, 221);
-    height: 60px;
-}
-
-#clear {
-    clear: both;
-}
 
 .immagine1 {
     width: 300px;
